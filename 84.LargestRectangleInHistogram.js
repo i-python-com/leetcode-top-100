@@ -1,4 +1,4 @@
-/*---------------------------array, two pointer, stack
+/*---------------------------array, stack, area
  * @param {number[]} heights
  * @return {number}
  */
